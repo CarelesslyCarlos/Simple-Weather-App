@@ -1,0 +1,14 @@
+{
+  "images" : [
+    {
+      "filename" : "White Black Simple Illustrated Ceramics Pottery Circle Logo.png",
+      "idiom" : "universal",
+      "platform" : "ios",
+      "size" : "1024x1024"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
